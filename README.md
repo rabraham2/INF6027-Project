@@ -34,7 +34,7 @@ This repository hosts the **INF6027 Project**, which focuses on retail sales ana
   - `ggplot2`
   - `readr`
   - `tidyr`
-  - Others (as needed, specified in the script)
+  - Others (as needed and specified in the code)
 
 ---
 
