@@ -67,6 +67,7 @@ This repository hosts the **INF6027 Project**, which focuses on retail sales ana
 
 Step 1: Load the Original Dataset
 File: poundsdata.xlsx
+
 Tool Used: Microsoft Excel / Python / R
 Load the dataset to examine its structure, variable descriptions, and overall data quality.
 
