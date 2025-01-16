@@ -309,6 +309,7 @@ ggplot(comparative_analysis_sales_categorisation, aes(
     axis.text.x = element_text(angle = 45, hjust = 1)
   )
 
+```
 
 ## Project Structure
 
