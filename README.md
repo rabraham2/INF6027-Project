@@ -63,7 +63,7 @@ This repository hosts the **INF6027 Project**, which focuses on retail sales ana
 
 ```
 
-## Instructions to process the original data
+## Instructions
 
 Step 1: Load the Original Dataset
 File: poundsdata.xlsx
