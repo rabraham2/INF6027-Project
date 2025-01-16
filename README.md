@@ -55,6 +55,8 @@ This repository hosts the **INF6027 Project**, which focuses on retail sales ana
 
 ## Running the Scripts
 
+```r
+
 # Start of Introduction of Data Science Coursework
 
 install.packages("readxl")
