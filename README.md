@@ -1,6 +1,6 @@
 # INF6027 Project
 
-This repository hosts the **INF6027 Project**, which focuses on retail sales analysis in R. It contains scripts for data cleaning, exploratory data analysis (EDA), correlation, and linear regression modelling.
+This repository hosts the **INF6027 Project**, which focuses on retail sales analysis in Great Britain using R. It contains scripts for data cleaning, exploratory data analysis (EDA), correlation, and linear regression modelling.
 
 ---
 
