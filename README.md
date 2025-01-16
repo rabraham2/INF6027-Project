@@ -17,6 +17,7 @@ This repository hosts the **INF6027 Project**, which focuses on retail sales ana
 ## Overview
 - **Course**: INF6027
 - **Goal**: Analyze monthly retail sales to understand trends and relationships between key factors, such as non-store retailing and automotive fuel sales.
+- **Aims and Objectives**: The study findings aimed to analyse the monthly, weekly and annual retail sales trends in the United Kingdom (UK) from pre-COVID (2019) to post-COVID (2020), focusing around on non-store retailing and overall retail sales. This study even seeks to identify relevant correlations, predict retail sales growth, and uncover patterns in retail industry trends, including and excluding automotive fuel.
 - **Methods**:
   - **Exploratory Data Analysis (EDA)**
   - **Correlation Analysis**
