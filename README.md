@@ -308,3 +308,19 @@ ggplot(comparative_analysis_sales_categorisation, aes(
   )
 
 
+## Project Structure
+
+INF6027-Project/
+├─ Code/
+│  ├─ data_r_code.R
+├─ Data/
+│  ├─ Retail_Sales_Index_Pounds_Data.xlsx
+├─ Results/
+│  ├─ Month-on-Month-Retail-Sales-2020-vs-2019.png
+│  ├─ Month-on-Month-Non-store-Retailing-Sales-2020-vs-2019.png
+│  ├─ Retail-Sales-Trends-Including-vs-Excluding-Automotive-Fuel-Sales.png
+├─ LICENSE
+├─ README.md
+
+## License
+
