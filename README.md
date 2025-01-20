@@ -27,12 +27,10 @@ Research questions involved in the study are as follows:
 3.	Comparative Trends: What patterns can be observed in sales trends when comparing retail sales, including and excluding automotive fuel?
 
 The research methodology was carried out as described below:
+
 a)	Data Gathering: The retail sales index dataset was considered the primary dataset.
-
 b)	Data Pre-processing: To prepare the dataset for statistical and exploratory analysis then, Cleaning, filtering, and transforming the dataset to prepare it for analysis. Missing values were handled, and relevant columns were selected.
-
 c)	Exploratory Data Analysis (EDA): Key trends, correlations, and distributions were visualised to understand the dataset and inform the analytical approach.
-
 d)	Statistical Analysis: Conducted using statistical methods, including correlation analysis, linear regression, and comparative visualisations.
 
 - **Methods**:
