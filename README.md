@@ -19,13 +19,16 @@ This repository hosts the **INF6027 Project**, which focuses on retail sales ana
 - **Course**: INF6027
 - **Introduction**:Retail sales have always served as an important indicator of economic health. According to studies done by Donoho (2017), through relevant retail sales-based insights, businesses can unlock consumer spending patterns and discover market trends at an early stage. The COVID-19 pandemic brought many important, unprecedented disruptions and transformations across the retail market, one such being a drastic increase in non-store retailing caused by lockdowns and restrictions enforced by the government. The cross-study report illustrates patterns that were not captured by standard theoretical analyses, so theoretically, optimal methods may not perform well in real applications. The dataset analysed in this report was the Retail Sales Index, which provides detailed monthly and annual retail sales figures, including and excluding automotive fuel. Due to the inherent nature of the variables in this dataset, it was well-suited to explain the profound shifts in consumer behaviour and retail sales performance.
 
-The research questions involved in the study are as follows:
+- **Goal**: A study to analyse the retail sales performance in Great Britain.
+- **Aims and Objectives**: The study findings aimed to analyse the monthly, weekly and annual retail sales trends in Great Britain from pre-COVID (2019) to post-COVID (2020), focusing around on non-store retailing and overall retail sales. This study even seeks to identify relevant correlations, predict retail sales growth, and uncover patterns in retail industry trends, including and excluding automotive fuel.
+
+- **Research Questions**:The research questions involved in the study are as follows:
 
 1.	Correlation Analysis: Is there a significant correlation between monthly retail sales (including automotive fuel) and monthly non-store retailing sales?
 2.	Prediction Model: Can monthly retail sales (including automotive fuel) be predicted using non-store retailing and monthly automotive fuel sales?
 3.	Comparative Trends: What patterns can be observed in sales trends when comparing retail sales, including and excluding automotive fuel?
 
-The research methodology was carried out as described below:
+- **Research Methodology**:The research methodology was carried out as described below:
 
 a)	Data Gathering: The retail sales index dataset was considered the primary dataset.
 
@@ -34,9 +37,6 @@ b)	Data Pre-processing: To prepare the dataset for statistical and exploratory a
 c)	Exploratory Data Analysis (EDA): Key trends, correlations, and distributions were visualised to understand the dataset and inform the analytical approach.
 
 d)	Statistical Analysis: Conducted using statistical methods, including correlation analysis, linear regression, and comparative visualisations.
-
-- **Goal**: A study to analyse the retail sales performance in Great Britain.
-- **Aims and Objectives**: The study findings aimed to analyse the monthly, weekly and annual retail sales trends in Great Britain from pre-COVID (2019) to post-COVID (2020), focusing around on non-store retailing and overall retail sales. This study even seeks to identify relevant correlations, predict retail sales growth, and uncover patterns in retail industry trends, including and excluding automotive fuel.
 
 - **Methods Used**:
   - **Exploratory Data Analysis (EDA)**
