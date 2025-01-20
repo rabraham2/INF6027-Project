@@ -20,7 +20,7 @@ This repository hosts the **INF6027 Project**, which focuses on retail sales ana
 - **Goal**: A study to analyse the retail sales performance in Great Britain.
 - **Aims and Objectives**: The study findings aimed to analyse the monthly, weekly and annual retail sales trends in Great Britain from pre-COVID (2019) to post-COVID (2020), focusing around on non-store retailing and overall retail sales. This study even seeks to identify relevant correlations, predict retail sales growth, and uncover patterns in retail industry trends, including and excluding automotive fuel.
 
-Research questions involved in the study are as follows:
+The research questions involved in the study are as follows:
 
 1.	Correlation Analysis: Is there a significant correlation between monthly retail sales (including automotive fuel) and monthly non-store retailing sales?
 2.	Prediction Model: Can monthly retail sales (including automotive fuel) be predicted using non-store retailing and monthly automotive fuel sales?
@@ -29,8 +29,11 @@ Research questions involved in the study are as follows:
 The research methodology was carried out as described below:
 
 a)	Data Gathering: The retail sales index dataset was considered the primary dataset.
+
 b)	Data Pre-processing: To prepare the dataset for statistical and exploratory analysis then, Cleaning, filtering, and transforming the dataset to prepare it for analysis. Missing values were handled, and relevant columns were selected.
+
 c)	Exploratory Data Analysis (EDA): Key trends, correlations, and distributions were visualised to understand the dataset and inform the analytical approach.
+
 d)	Statistical Analysis: Conducted using statistical methods, including correlation analysis, linear regression, and comparative visualisations.
 
 - **Methods**:
