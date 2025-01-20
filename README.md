@@ -36,7 +36,7 @@ c)	Exploratory Data Analysis (EDA): Key trends, correlations, and distributions 
 
 d)	Statistical Analysis: Conducted using statistical methods, including correlation analysis, linear regression, and comparative visualisations.
 
-- **Methods**:
+- **Methods Used**:
   - **Exploratory Data Analysis (EDA)**
   - **Correlation Analysis**
   - **Linear Regression** for predictive modeling
